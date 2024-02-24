@@ -1,5 +1,5 @@
 {
-  "name": "email-service",
+  "name": "kva-email-service",
   "version": "1.0.0",
   "description": "provide email service to send custom email through IMAP",
   "main": "app.js",
