@@ -1,4 +1,4 @@
-
+const nodemailer = require('nodemailer');
 
 const emailTransport = (host, port, secure, auth) => {
   const mailer = nodemailer.createTransport({
